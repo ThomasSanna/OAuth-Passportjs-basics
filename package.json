@@ -1,0 +1,16 @@
+{
+  "name": "oauth-passportjs-basics",
+  "version": "1.0.0",
+  "description": "simple oauth with passportjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wadeekt",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
